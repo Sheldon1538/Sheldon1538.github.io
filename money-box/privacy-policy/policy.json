@@ -1,0 +1,26 @@
+{
+  "appName": "Money Box - Plan Purchases",
+  "provider": "KA Strategic Ventures",
+  "lastUpdated": "2026-06-13",
+  "privacyPolicyUrl": "https://kastrategicventures.com/money-box/privacy-policy/",
+  "contactEmail": "kastrategicventures@atomicmail.io",
+  "summary": "Money Box stores savings goals on the user's device and uses limited diagnostics to maintain app stability.",
+  "dataStoredOnDevice": [
+    "Goal names",
+    "Goal descriptions",
+    "Target amounts",
+    "Saved amounts",
+    "Goal colors",
+    "Optional deadlines"
+  ],
+  "thirdPartyServices": [
+    "Firebase diagnostics and app performance services"
+  ],
+  "financialData": {
+    "bankConnection": false,
+    "movesMoney": false,
+    "collectsBankCredentials": false,
+    "collectsPaymentCardDetails": false
+  },
+  "sellsPersonalInformation": false
+}
